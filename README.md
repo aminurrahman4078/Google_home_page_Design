@@ -43,4 +43,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminur4078&layout=compact&theme=radical)
 
 ---
-📷 Screenshot:"C:\Users\Hp\Desktop\Program\github\Screenshot 2025-03-11 112652.png"
+"C:\Users\Hp\Desktop\Program\github\Screenshot 2025-03-11 112652.png"
