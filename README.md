@@ -1,4 +1,4 @@
-# Google home pages design
+
 <h1 align="center">Hi , I'm Aminur Rahman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Designer;Web+Developer;Front-End+Specialist;Always+learning+new+technologies&center=true&width=500&height=50"></a>
@@ -43,5 +43,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aminur4078&layout=compact&theme=radical)
 
 ---
+# Google home pages design
 ![image](https://github.com/user-attachments/assets/39d332e2-9908-4aac-8771-15a42d4c9c78)
 
